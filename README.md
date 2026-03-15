@@ -1,4 +1,4 @@
-# United By Sounds - UX UI Module
+# United By Sound - UX UI Module
 
 United by Sound 🎵
 A festival website and online merch store for United by Sound — a music festival experience designed to bring people together through live music, culture, and community.
